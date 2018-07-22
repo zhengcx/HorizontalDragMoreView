@@ -1,0 +1,2 @@
+# HorizontalDragMoreView
+一个横向拖动加载更多带阻尼回弹的自定义View
